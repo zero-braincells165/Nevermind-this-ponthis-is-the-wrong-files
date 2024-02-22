@@ -11,8 +11,13 @@ function runScript3() {
 
         var weightInLbs = weightInKg * 2.20462;
 
-        console.log("Name: " + nickname + "\nHeight: " + heightDisplay + "\nWeight: " + weightInLbs.toFixed(3) + " lbs");
+        console.log
+        {
+            alert("Name: " + nickname + "\nHeight: " + heightDisplay + "\nWeight: " + weightInLbs.toFixed(3) + " lbs");
+        }
     } else {
-        console.log("User does not wish to share his/her information.");
+        console.log}
+            alert("User does not wish to share his/her information.");
+                   }
     }
 }
